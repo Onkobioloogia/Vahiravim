@@ -162,10 +162,16 @@ strong {
 ---
 
 ## Ainult osa vähi valkudest sobivad ravimimärklauaks
+# Madalmolekulaarsed ühendid omavad peamiselt inhibeerivat toimet valkudele millele nad seostuvad
 
-- **Madalmolekulaarsed ühendid omavad peamiselt inhibeerivat toimet** valkudele millele nad seostuvad.
 - Tuumorsuppressorid ja genoomi korrashoiu eest vastutavad valgud ei sobi seega ravimi märklauaks: nende funktsiooni on vähirakkudes praktiliselt võimatu taastada.
 - Onkogeenid ja neile signaalirajas järgnevad geenid on potentsiaalsed ravimimärklauad.
+- 'Onkogeen sõltuvus' ([*oncogene addiction*](http://carcin.oxfordjournals.org/content/21/5/857.abstract?ijkey=a8731bb91ca8497327c79918f8012a574b2a93b5&keytype2=tf_ipsecsha)): vaatamata tumorigeneesi käigus vähirakku akumuleerunud mitmete onkogeensetele mutatsioonidele, on vähirakk sõltuv kindla onkogeense valgu/raja aktivatsioonist. Kui see rada 'kinni panna' siis vähk kollapseerub (HER2/neu,EGFRvIII,BRAFV600E).
+
+<img src="http://www.biooncology.com/images/biological-pathways/her-main-lg.jpg" style="width:240px;"/>
+
+<footer class="source">Pilt: www.biooncology.com.
+</footer>
 
 ---
 
@@ -190,7 +196,7 @@ strong {
     - **seriin/treoniin kinaasi inhibiitorid** (*temsirolimus, everolimus,vemurafenib*,etc),
     - **proteasoomi inhibiitorid** (*bortezomib*).
 
-- Näiteid [märklaudravimitest](http://www.mycancergenome.org/content/other/molecular-medicine/overview-of-targeted-therapies-for-cancer/)
+- Näiteid [märklaud-ravimitest](http://www.mycancergenome.org/content/other/molecular-medicine/overview-of-targeted-therapies-for-cancer/)
 
 ---
 
@@ -231,4 +237,30 @@ Lupron | eesnäärme ja munasarja vähk | gonatotropiin | hormoonravim | $1.73B 
 Zytiga | eesnäärme vähk | androgeen | hormoonravim | $1.7B | J&J
 Revlimid | multi müeloom, mantelrakk lümfoom | ? | kemoterapeutikum | $1.09B | Celgene
 
+--- .segue .dark .nobackground
 
+## Lingid eelmistele loengutele
+
+--- &twocol 
+
+***=left 
+
+- [Sissejuhatav loeng](http://rpubs.com/tapa741/sissejuhatus)
+- [Vähitüübid](http://rpubs.com/tapa741/vahityybid)
+- [Onkoviirused](http://tpall.github.io/Onkoviirused)
+- [Onkogeenid](http://tpall.github.io/Onkogeenid)
+- [Retseptorid](http://tpall.github.io/Retseptorid)
+- [Signaalirajad](http://tpall.github.io/Signaalirajad)
+- [Tuumorsupressorgeenid](http://tpall.github.io/Tuumorsupressorid)
+- [Rakutsüklikontroll](http://tpall.github.io/Rakutsyklikontroll)
+
+
+***=right 
+
+- [p53 ja apoptoos](http://tpall.github.io/p53-ja-apoptoos)
+- [Immortalisatsioon](http://tpall.github.io/Immortalisatsioon)
+- [Tumorigenees](http://tpall.github.io/Tumorigenees)
+- [Genoomiterviklikkus](http://tpall.github.io/Genoomiterviklikkus)
+- [Mikrokeskkond](http://tpall.github.io/Mikrokeskkond)
+- [Metastaasid](http://tpall.github.io/Metastaas)
+- [Immuunsus](http://tpall.github.io/Immuunsus)
