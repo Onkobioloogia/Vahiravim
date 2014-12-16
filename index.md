@@ -190,6 +190,7 @@ strong {
     - **seriin/treoniin kinaasi inhibiitorid** (*temsirolimus, everolimus,vemurafenib*,etc),
     - **proteasoomi inhibiitorid** (*bortezomib*).
 
+- Näiteid [märklaudravimitest](http://www.mycancergenome.org/content/other/molecular-medicine/overview-of-targeted-therapies-for-cancer/)
 
 ---
 
