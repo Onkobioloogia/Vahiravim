@@ -1,0 +1,10 @@
+base
+magrittr
+reshape2
+plyr
+dplyr
+ggplot2
+ggthemes
+slidify
+slidifyLibraries
+scales
