@@ -166,12 +166,50 @@ strong {
 
 - Tuumorsuppressorid ja genoomi korrashoiu eest vastutavad valgud ei sobi seega ravimi märklauaks: nende funktsiooni on vähirakkudes praktiliselt võimatu taastada.
 - Onkogeenid ja neile signaalirajas järgnevad geenid on potentsiaalsed ravimimärklauad.
-- 'Onkogeen sõltuvus' ([*oncogene addiction*](http://carcin.oxfordjournals.org/content/21/5/857.abstract?ijkey=a8731bb91ca8497327c79918f8012a574b2a93b5&keytype2=tf_ipsecsha)): vaatamata tumorigeneesi käigus vähirakku akumuleerunud mitmete onkogeensetele mutatsioonidele, on vähirakk sõltuv kindla onkogeense valgu/raja aktivatsioonist. Kui see rada 'kinni panna' siis vähk kollapseerub (HER2/neu,EGFRvIII,BRAFV600E).
 
-<img src="http://www.biooncology.com/images/biological-pathways/her-main-lg.jpg" style="width:240px;"/>
+
+<img src="http://www.biooncology.com/images/biological-pathways/her-main-lg.jpg" style="width:400px;"/>
 
 <footer class="source">Pilt: www.biooncology.com.
 </footer>
+
+---
+
+## Onkogeen sõltuvus
+
+- 'Onkogeen sõltuvus' ([*oncogene addiction*](http://carcin.oxfordjournals.org/content/21/5/857.abstract?ijkey=a8731bb91ca8497327c79918f8012a574b2a93b5&keytype2=tf_ipsecsha)): vaatamata tumorigeneesi käigus vähirakku akumuleerunud mitmete onkogeensetele mutatsioonidele, on vähirakk sõltuv kindla onkogeense valgu/raja aktivatsioonist. 
+- Kui see kriitiline rada 'kinni panna' siis vähk kollapseerub (HER2/neu,EGFRvIII,BRAFV600E).
+
+
+---
+
+# Eksperimentaalsed näited onkogeen sõltuvusest
+
+Transgeenne onkogeen | vähi vastus
+---------------------|------------
+Vähi täielik regressioon peale transgeeni 'välja lülitamist' |
+H-ras | melanoom kollapseerus
+K-ras | kopsu adenokartsinoomi regressioon
+bcr-abl | B-raku leukeemia regressioon
+myc | T raku lümfoom, AML regressioon
+fgf-7 | kopsu epiteeli hüperplaasia regressioon
+SV40 LT | süljenäärme hüperplaasia regresseerus, kui transgeeni ekspresseeriti <4 kuud
+Vähk jäi alles või relapseerus peale transgeeni 'välja lülitamist' |
+SV40 LT | süljenäärme hüperplaasia tuli tagasi, kui transgeeni ekspresseeriti >4 kuud
+neu | rinnanäärme adenokartsinoom relapseerus
+myc | rinnanäärme adenokartsinoom jäi alles
+wnt | rinnanäärme adenokartsinoom jäi alles
+
+---
+
+## *Druggable targets*
+
+
+---
+
+# Kinome tree
+
+![kinome](http://media.cellsignal.com/www/images/science/kinases/kinome.jpg)
 
 ---
 
