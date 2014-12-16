@@ -146,8 +146,8 @@ pd %>%
 
 ---&twocol
 
-## Molekulaarne profileerimine
-# HER2/ER/PR-negatiivse rinnavähk
+## Molekulaarne profileerimine aitab määrata ravi
+# HER2/ER/PR-negatiivne rinnavähk
 
 ***=left
 
@@ -156,6 +156,59 @@ pd %>%
 ***=right
 
 ![basal](http://theoncologist.alphamedpress.org/content/15/suppl_5/39/F2.medium.gif)
+
+<footer class="source">Pildid: Molecular Stratification of Triple-Negative Breast Cancers. Charles M. Perou, 
+<a href="http://theoncologist.alphamedpress.org/content/15/suppl_5/39.long">2010</a>.
+</footer>
+
+---
+
+## Molekulaarne profileerimine
+# Difuusne suurerakuline lümfoom
+
+![blümfoom](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1351148/bin/nihms-5150-0001.jpg)
+
+
+
+<footer class="source">Pilt: The Biology of Human Lymphoid Malignancies Revealed by Gene Expression Profiling. Louis M. Staudt
+& Sandeep Dave, 
+<a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1351148/">2005</a>.
+</footer>
+
+---
+
+## Vähiravi strateegiad
+# Surm/apoptoos vs diferentseerumine
+
+- Enamus mittekirurgilise vähiravi strateegiatest põhineb sellel, et ravi tagajärjel **vähirakud lähevad apoptoosi**.
+- Alternatiiviks on vähirakkude **diferentseeruma suunamine** nii, et nad muutuksid post-mitootilisteks.
+
+<img src="http://mct.aacrjournals.org/content/7/8/2358/F5.large.jpg" style="width:460px;"/>
+
+<footer class="source">Pilt: 12-AAG (tanespimycin) indutseeritud mitoosikatastroof rinnavähi rakuliinidel. Zajac et al., 
+<a href="http://mct.aacrjournals.org/content/7/8/2358.full">2008</a>.
+</footer>
+
+---
+
+## Äge promüelotsüütne leukeemia
+
+ - APL iseloomustab ebanormaalne mitte-küpsete granulotsüütide akumulatsioon ja on seotud retinoolhappe retseptori (RARα) translokatsiooniga (t(15;17)(q22;q12); PML-RAR).
+    - Algselt fataalne haigus (kirjeldati 1957) on hästi ravitav **all-trans-retinoolhappega** mis diferentseerib need vähirakud neutrofiilideks.
+    - all-trans-retinoolhape põhjustab diferentsatsiooni geene represseeriva PML-RAR valgu ubikvitineerimise ja proteasoomse lagundamise.
+
+![apl](assets/img/apl.png)
+
+<footer class="source">Pildid: image.bloodline.net, wikipedia.
+</footer>
+
+---
+
+## Ainult osa vähi valkudest sobivad ravimimärklauaks
+
+- **Madalmolekulaarsed ühendid omavad peamiselt inhibeerivat toimet** valkudele millele nad seostuvad.
+- Tuumorsuppressorid ja genoomi korrashoiu eest vastutavad valgud ei sobi seega ravimi märklauaks: nende funktsiooni on vähirakkudes praktiliselt võimatu taastada.
+- Onkogeenid ja neile signaalirajas järgnevad geenid on potentsiaalsed ravimimärklauad.
 
 ---
 
