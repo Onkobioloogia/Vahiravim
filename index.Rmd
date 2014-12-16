@@ -144,7 +144,7 @@ pd %>%
 <a href="http://www.sciencemag.org/content/331/6024/1540.1.full">2011</a>.
 </footer>
 
----
+---&twocol
 
 ## Molekulaarne profileerimine
 # HER2/ER/PR-negatiivse rinnavähk
