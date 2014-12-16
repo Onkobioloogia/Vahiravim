@@ -75,7 +75,7 @@ strong {
 
 ## Vähitrendid 20. sajandil
 
-![plot of chunk unnamed-chunk-1](assets/fig/unnamed-chunk-1-1.png) 
+![plot of chunk unnamed-chunk-1](assets/fig/unnamed-chunk-1.png) 
 
 <footer class="source">Andmed: Long-Term Trends in Cancer Mortality in the United States, 1930 –1998. Wingo et al., 
 <a href="http://onlinelibrary.wiley.com/doi/10.1002/cncr.11380/pdf">2003</a>.
@@ -162,8 +162,8 @@ strong {
 ---
 
 ## Ainult osa vähi valkudest sobivad ravimimärklauaks
-# Madalmolekulaarsed ühendid omavad peamiselt inhibeerivat toimet valkudele millele nad seostuvad
 
+- Madalmolekulaarsed ühendid omavad peamiselt inhibeerivat toimet valkudele millele nad seostuvad
 - Tuumorsuppressorid ja genoomi korrashoiu eest vastutavad valgud ei sobi seega ravimi märklauaks: nende funktsiooni on vähirakkudes praktiliselt võimatu taastada.
 - Onkogeenid ja neile signaalirajas järgnevad geenid on potentsiaalsed ravimimärklauad.
 
@@ -178,7 +178,11 @@ strong {
 ## Onkogeen sõltuvus
 
 - 'Onkogeen sõltuvus' ([*oncogene addiction*](http://carcin.oxfordjournals.org/content/21/5/857.abstract?ijkey=a8731bb91ca8497327c79918f8012a574b2a93b5&keytype2=tf_ipsecsha)): vaatamata tumorigeneesi käigus vähirakku akumuleerunud mitmete onkogeensetele mutatsioonidele, on vähirakk sõltuv kindla onkogeense valgu/raja aktivatsioonist. 
-- Kui see kriitiline rada 'kinni panna' siis vähk kollapseerub (HER2/neu,EGFRvIII,BRAFV600E).
+- Kui see kriitiline rada 'kinni panna' siis vähk kollapseerub 
+    - BCR-ABL fuusionvalk kroonilises müelotsüütses leukeemias on tundlik imatinib-le,
+    - HER2 on amplifitseerunud 25-30% rinnavähkides mis muudab need tundlikuks HER2-antikehadele (trastuzumab) ja inhibiitoritele (lapatinib),
+    - EGFR 10-20% mitte-väikserakulised kopsuvähid sisaldavad aktiveerivaid mutatsioone kinaasses domäänis ja on tundlikud inhibiitoritele gefitinib ja erlotinib-ile,
+    - BRAF V600E mutatsioon on 70% melanoomides, 40% kilpnäärmevähkides ja 20% mCRC mis muudab need tundlikuks nt. vemurafenib-ile.
 
 
 ---
@@ -197,8 +201,8 @@ SV40 LT | süljenäärme hüperplaasia regresseerus, kui transgeeni ekspresseeri
 Vähk jäi alles või relapseerus peale transgeeni 'välja lülitamist' |
 SV40 LT | süljenäärme hüperplaasia tuli tagasi, kui transgeeni ekspresseeriti >4 kuud
 neu | rinnanäärme adenokartsinoom relapseerus
-myc | rinnanäärme adenokartsinoom jäi alles
-wnt | rinnanäärme adenokartsinoom jäi alles
+myc või wnt | rinnanäärme adenokartsinoom jäi alles
+
 
 ---
 

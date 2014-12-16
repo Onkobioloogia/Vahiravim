@@ -1,10 +1,10 @@
 base
-magrittr
-reshape2
-plyr
 dplyr
 ggplot2
 ggthemes
+magrittr
+plyr
+reshape2
+scales
 slidify
 slidifyLibraries
-scales
