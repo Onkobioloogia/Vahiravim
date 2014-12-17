@@ -397,6 +397,30 @@ Erinevate epidermaalse kasvufaktori retseptori (EGFR) türosiin kinaasi inhibiit
 </footer>
 
 
+---
+
+## Ravimiresistentsus
+
+In vitro ravimiresistentsust vahendavad mutatsioonid BCR-ABL valgus
+
+![](http://www.nature.com/nrc/journal/v12/n8/images/nrc3317-f2.jpg)
+
+<footer class="source">Pilt: A partially overlapping network of BCR-ABL1 kinase domain mutations confer resistance to certain TKIs. O'Hare et al.,
+<a href="http://www.nature.com/nrc/journal/v12/n8/fig_tab/nrc3317_F2.html">2012</a>.
+</footer>
+
+---
+
+## Türosiin kinaasi inhibiitorite resistentsus kopsuvähis
+# NSCLC resistentsusele viivad mehhanismid
+
+![](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3577635/bin/clpt2012237f2.jpg)
+
+
+<footer class="source"> Pilt: de Castro et al., 
+<a href="http://www.nature.com/clpt/journal/v93/n3/full/clpt2012237a.html">2013</a>.
+</footer>
+
 ---&twocol
 
 ## Kliinilised uuringud
