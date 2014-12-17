@@ -62,9 +62,39 @@ strong {
 
 ---
 
+## Immunsüsteem ja vähk
+# Vähi immuunokujundamine
+
+
+- Vähirakkude ja immuunsüsteemi interaktsiooni nimetatakse **vähi immuunokujundamine**.
+- Vähi **täielik elimineerimine immuunsüsteemi poolt** on immuunokujundamine üks stsenaarium.
+- Teine stsenaarium on **immuunsüsteemi poolt kujundatud vähirakkude** repertuaari esiletõus. 
+- Immuunsüsteemiga kohandunud vähirakud on kas 
+  - **vähem immuunogeneesed**,
+  - suurenenud **võimega inhibeerida vähivastast immuunvastust**.
+
 ---&twocol
 
-## Immunsüsteem ja vähk
+## Immuunrakud kasvaja mikrokeskonnas
+
+***=left
+
+- T lümfotsüüdid
+- B lümfotsüüdid
+- NK ja NKT rakud
+- makrofaagid
+- müeloidset päritolu suppressor-rakud
+- dendriitrakud
+- neutrofiilid
+
+***=right
+
+![](http://www.nature.com/nrc/journal/v12/n4/images/nrc3245-f2.jpg)
+
+<footer class="source">Pilt: 
+<a href="http://www.nature.com/nrc/journal/v12/n4/full/nrc3245.html"> Fridman et al., 2012.
+</a>
+</footer>
 
 
 --- .segue .dark .nobackground
