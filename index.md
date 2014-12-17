@@ -75,7 +75,7 @@ strong {
 
 ## Vähitrendid 20. sajandil
 
-![plot of chunk unnamed-chunk-1](assets/fig/unnamed-chunk-1.png) 
+![plot of chunk unnamed-chunk-1](assets/fig/unnamed-chunk-1-1.png) 
 
 <footer class="source">Andmed: Long-Term Trends in Cancer Mortality in the United States, 1930 –1998. Wingo et al., 
 <a href="http://onlinelibrary.wiley.com/doi/10.1002/cncr.11380/pdf">2003</a>.
@@ -163,8 +163,8 @@ strong {
 
 ## Ainult osa vähi valkudest sobivad ravimimärklauaks
 
-- Madalmolekulaarsed ühendid omavad peamiselt inhibeerivat toimet valkudele millele nad seostuvad
-- Tuumorsuppressorid ja genoomi korrashoiu eest vastutavad valgud ei sobi seega ravimi märklauaks: nende funktsiooni on vähirakkudes praktiliselt võimatu taastada.
+- **Madalmolekulaarsed ühendid omavad peamiselt inhibeerivat toimet** valkudele millele nad seostuvad.
+- Reeglina, tuumorsuppressorid ja genoomi korrashoiu eest vastutavad valgud ei sobi seega otseseks ravimi märklauaks: nende funktsiooni on vähirakkudes praktiliselt võimatu taastada.
 - Onkogeenid ja neile signaalirajas järgnevad geenid on potentsiaalsed ravimimärklauad.
 
 
@@ -175,15 +175,52 @@ strong {
 
 ---
 
+## TP53 on siiski võimalik reaktiveerida
+
+- **PRIMA-1** reageerib mutantse p53 tioolrühmadega ja moodustab kovalentse sideme. 
+- PRIMA-modifitseeritud p53 omandab uuesti tuumorsupressor aktiivsuse põhjustab rakkude apoptoosi.
+
+![prima](assets/img/prima1.png)
+
+<footer class="source">Pilt: Lambert et al.,
+<a href="http://www.sciencedirect.com/science/article/pii/S1535610809000786">2009
+</a>.
+</footer>
+
+---
+
+## TP53 reaktivatsioon
+
+- **Nutlin-2**: Metsik tüüpi p53 assotseerub vähis tavaliselt MDM2 üle-ekspressiooniga. Sellistes kasvajates on võimalik blokeerida MDM2 seostumine p53 (Joonisel **b**).
+- **PhiKan083**: p53 Y220C mutantset valku on ka võimalik reaktiveerida - PhiKan083 seostumine taastab p53 normaalse konformatsiooni (Joonisel **c,d**).
+
+![p53](http://www.nature.com/nrc/journal/v9/n12/images/nrc2763-f3.jpg)
+
+<footer class="source">Pilt: Brown et al.,
+<a href="http://www.nature.com/nrc/journal/v9/n12/full/nrc2763.html">2009
+</a>.
+</footer>
+
+---
+
 ## Onkogeen sõltuvus
 
-- 'Onkogeen sõltuvus' ([*oncogene addiction*](http://carcin.oxfordjournals.org/content/21/5/857.abstract?ijkey=a8731bb91ca8497327c79918f8012a574b2a93b5&keytype2=tf_ipsecsha)): vaatamata tumorigeneesi käigus vähirakku akumuleerunud mitmete onkogeensetele mutatsioonidele, on vähirakk sõltuv kindla onkogeense valgu/raja aktivatsioonist. 
-- Kui see kriitiline rada 'kinni panna' siis vähk kollapseerub 
+- 'Onkogeen sõltuvus' ([*oncogene addiction*](http://carcin.oxfordjournals.org/content/21/5/857.abstract?ijkey=a8731bb91ca8497327c79918f8012a574b2a93b5&keytype2=tf_ipsecsha)): vaatamata tumorigeneesi käigus vähirakku akumuleerunud mitmete onkogeensetele mutatsioonidele, on vähirakk sõltuv kindla onkogeense valgu/raja aktivatsioonist.
+
+---
+
+## Onkogeen sõltuvus
+
+- Kui see kriitiline onkogeenne rada 'kinni panna' siis vähk kollapseerub: 
     - BCR-ABL fuusionvalk kroonilises müelotsüütses leukeemias on tundlik imatinib-le,
     - HER2 on amplifitseerunud 25-30% rinnavähkides mis muudab need tundlikuks HER2-antikehadele (trastuzumab) ja inhibiitoritele (lapatinib),
     - EGFR 10-20% mitte-väikserakulised kopsuvähid sisaldavad aktiveerivaid mutatsioone kinaasses domäänis ja on tundlikud inhibiitoritele gefitinib ja erlotinib-ile,
     - BRAF V600E mutatsioon on 70% melanoomides, 40% kilpnäärmevähkides ja 20% mCRC mis muudab need tundlikuks nt. vemurafenib-ile.
 
+<img src="http://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/3OG7.png/1024px-3OG7.png" style="width:260px;"/>
+
+<footer class="source">Pilt: B-raf ja vemurafenib kompleks. PDBid: <a href="http://www.pdb.org/pdb/explore/explore.do;jsessionid=145838DF509932768B590EB2463D199A?structureId=3OG7">3OG7</a>.
+</footer>
 
 ---
 
@@ -203,17 +240,6 @@ SV40 LT | süljenäärme hüperplaasia tuli tagasi, kui transgeeni ekspresseerit
 neu | rinnanäärme adenokartsinoom relapseerus
 myc või wnt | rinnanäärme adenokartsinoom jäi alles
 
-
----
-
-## *Druggable targets*
-
-
----
-
-# Kinome tree
-
-![kinome](http://media.cellsignal.com/www/images/science/kinases/kinome.jpg)
 
 ---
 
@@ -240,19 +266,77 @@ myc või wnt | rinnanäärme adenokartsinoom jäi alles
 
 - Näiteid [märklaud-ravimitest](http://www.mycancergenome.org/content/other/molecular-medicine/overview-of-targeted-therapies-for-cancer/)
 
+
+--- &twocol
+
+## Ravimimärklauaks sobivad valgud *druggable targets*
+
+***=left
+
+- Valku loetakse sobivaks ravimi märklauaks kui ta omab identifitseeritavat **ensümaatilist aktiivsust** ja defineeritud  **katalüütiline lõhe** (*catalytic cleft*).
+- Katalüütilisse lõhesse on võimalik seostada suhteliselt madalmolekulaarne (<1000Da) ühend. 
+- Mitmed mittekovalentsed sidemed mis sellise madalmolekulaarse ühendi seostumisel moodustuvad, võimaldavad saavutada ravimi **kõrge spetsiifilisuse** ja **aviidsuse** (~mitmete kontaktide afiinsuste summa)  
+
+***=right
+
+<img src="http://chem3513-2007.pbworks.com/f/synthesis%20of%20gleevec.jpg" style="width:400px;"/>
+
+<footer class="source">Pilt: BCR-ABL kompleksis imatinib-iga.
+</footer>
+
 ---
 
-## Kinaasi inhibiitorid vähiravis
+## Ravimimärklauaks ebasobivad valgud
+# Keskmiselt 1 valk 5 sobib
 
-A total of 24 small-molecule kinase inhibitors have
-been approved for use as therapeutic agents, 17 of which are for
-cancer. In addition, four monoclonal antibodies acting on protein
-kinase targets have also been licensed for cancer therapy.
+- Valke millel selge katalüütiline lõhe puudub peetakse üldiselt **ravimimärklauaks sobimatuks, nt. transkriptsioonifaktorid**. Onkovalgud MYC ja FOS klassifitseeruvad selliste valkuda hulka. Hormoonretseptorid on siin erand, sest neil on spetsiifiline hormooni siduv domään (tamoksifeen blokeerib östrogeenirtseptori)
+- Teisalt ei garanteeri katalüütilise domääni olemasolu, et mingi valgu vastu on mõtet ravimit disainima hakata. Näiteks, 
+    - RAS GTPaasne domään, mida pole mõtet inhibeerida, sest see omab juba isegi madalat RAS-i inhibeerivat toimet.
+    - türosiin fosfataasid, mis toimivad signaaliraja negatiivses tagasisides.
+
+
+---
+
+## Valk-valk interaktsioonide blokeerimine
+
+- **Nutlin-2**: blokeerib MDM2 seostumise metsik tüüpi p53.
+- **ICG-001** blokeerib the $\beta$-kateniini/CBP (*cyclic AMP response-element binding protein binding protein*) vahelise interaktsiooni.
+    - CBP on Wnt/$\beta$-kateniini signaaliraja transkriptsiooni koaktivaator, mis koos $\beta$-kateniiniga aktiveerib mitmete oluliste anti-apoptootiliste geenide (survivin, IAP) ja ka tsükliin D1 ekspressiooni.
+
+
+![ICG001](assets/img/ICG001.png)
+
+<footer class="source">Pilt: Small-molecule inhibition of CBP/catenin interactions eliminates drug-resistant clones in acute lymphoblastic leukemia. Gang et al.,
+<a href="http://www.nature.com/onc/journal/v33/n17/fig_tab/onc2013169f7.html">2014</a>.
+</footer>
+
+
+---&twocol
+
+## Kinaasid on vähiravis olulised ravimimärklauad
+# Praegu, 24 terapeutilisest inhibiitorist kasutatakse 17 vähiravis
+
+***=right
+
+![kinome](http://media.cellsignal.com/www/images/science/kinases/kinome.jpg)
+
+***=left
+
+
+- Inimesel on genoomis 518 kinaasi geeni.
+- ~395 kinaasi inhibiitorit ~110 erineva kinaasi vastu on kliinilises arenduses [de Castro, 2012](http://www.nature.com/clpt/journal/v93/n3/full/clpt2012237a.html).
+- Türosiin kinaase on 90 ja seriin-treoniin kinaase 318.
+- Kinaasne domään on väga sarnane erinevatel kinaasidel.
+
+<footer class="source">Pilt: inimese kinoomi puu. Cell Signalling Technology, Inc.
+</footer>
+
 
 ---
 
 ## EGFR inhibiitorid
-# Chemical structures of epidermal growth factor receptor (EGFR) tyrosine kinase inhibitors and their molecular modes of binding to the target.
+
+Erinevate epidermaalse kasvufaktori retseptori (EGFR) türosiin kinaasi inhibiitorite seostumine kinaasse domääni ATP seostumise lõhesse. Moodustuvad mitmed mittekovalentsed sidemed.
 
 ![](http://www.nature.com/clpt/journal/v93/n3/images/clpt2012237f1.gif)
 
@@ -261,6 +345,7 @@ kinase targets have also been licensed for cancer therapy.
  Allikas: de Castro et al., 
 <a href="http://www.nature.com/clpt/journal/v93/n3/full/clpt2012237a.html">2013</a>.
 </footer>
+
 
 ---
 
