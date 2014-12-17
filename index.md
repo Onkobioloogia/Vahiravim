@@ -346,6 +346,38 @@ Erinevate epidermaalse kasvufaktori retseptori (EGFR) türosiin kinaasi inhibiit
 <a href="http://www.nature.com/clpt/journal/v93/n3/full/clpt2012237a.html">2013</a>.
 </footer>
 
+---
+
+## Ükski TKI pole absoluutselt selektiivne
+
+![](http://www.nature.com/ni/journal/v10/n4/images/ni.1701-F1.jpg)
+
+ <footer class="source"> Pilt: Ringi suurus näitab inhibiitori sidumisafiinsust: suurem on kõrgema afiinsusega. Nature Immunology 10, 356 - 360 (2009).
+</footer>
+
+---
+
+## TKI kõrvaltoime: EGFR inhibitsioon
+
+- Erlotinibi kasutamisega võib patsentidel tekkida nahale aknesarnane lööve.
+- Samas assotseerub sellise lööbe teke oluliselt parema ravitulemusega (mitte-väikserakuline kopsuvähk), olles nõnda ka farmakodünaamiliseks markeriks.
+
+![PD](http://www.thejgo.org/article/viewFile/1285/html/7172)
+
+---&twocol
+
+## Kliinilised uuringud
+
+***=left
+
+- Faas 1 uuringud viiakse läbi tervetel vabatahtlikel (20-80) ja tehakse kindlaks ravimi ohutu doosi piirkond, uuritakse farmakokineetikat ja identifitseeritakse kõrvalmõjud.
+- Faas 2 uuritakse 100-300 inimesel kas ravim on efektiivne võrreldes platseebo/standard raviga ja kõrvalmõjusid. Faasis 2a selgitatakse erinevate dooside toime. Faas 2b selgitab kas ravi(m) on efektiivne. Enamus ravimeid praagitakse välja 2. faasis.
+- Faas 3 suured multikeskus (1000-3000) uuringud kinnitavad kliinilise efektiivsuse.
+- **Terapeutiline aken**: ravimi doos mis asetseb efektiivsuse ja toksilisuse vahel.
+
+***=right
+
+![](http://www.hemoshear.com/wp-content/uploads/2012/10/Screen-shot-2012-10-18-at-3.11.58-PM.png)
 
 ---
 
