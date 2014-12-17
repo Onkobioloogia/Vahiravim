@@ -355,14 +355,6 @@ Erinevate epidermaalse kasvufaktori retseptori (EGFR) türosiin kinaasi inhibiit
  <footer class="source"> Pilt: Ringi suurus näitab inhibiitori sidumisafiinsust: suurem on kõrgema afiinsusega. Nature Immunology 10, 356 - 360 (2009).
 </footer>
 
----
-
-## TKI kõrvaltoime: EGFR inhibitsioon
-
-- Erlotinibi kasutamisega võib patsentidel tekkida nahale aknesarnane lööve.
-- Samas assotseerub sellise lööbe teke oluliselt parema ravitulemusega (mitte-väikserakuline kopsuvähk), olles nõnda ka farmakodünaamiliseks markeriks.
-
-![PD](http://www.thejgo.org/article/viewFile/1285/html/7172)
 
 ---&twocol
 
@@ -379,6 +371,15 @@ Erinevate epidermaalse kasvufaktori retseptori (EGFR) türosiin kinaasi inhibiit
 - **Terapeutiline aken**: ravimi doos mis asetseb efektiivsuse ja toksilisuse vahel.
 
 ![](http://www.hemoshear.com/wp-content/uploads/2012/10/Screen-shot-2012-10-18-at-3.11.58-PM.png)
+
+---
+
+## TKI kõrvaltoime: EGFR inhibitsioon
+
+- Erlotinibi kasutamisega võib patsentidel tekkida nahale aknesarnane lööve.
+- Samas assotseerub sellise lööbe teke oluliselt parema ravitulemusega (mitte-väikserakuline kopsuvähk), olles nõnda ka farmakodünaamiliseks markeriks.
+
+![PD](http://www.thejgo.org/article/viewFile/1285/html/7172)
 
 ---
 
