@@ -373,9 +373,10 @@ Erinevate epidermaalse kasvufaktori retseptori (EGFR) türosiin kinaasi inhibiit
 - Faas 1 uuringud viiakse läbi tervetel vabatahtlikel (20-80) ja tehakse kindlaks ravimi ohutu doosi piirkond, uuritakse farmakokineetikat ja identifitseeritakse kõrvalmõjud.
 - Faas 2 uuritakse 100-300 inimesel kas ravim on efektiivne võrreldes platseebo/standard raviga ja kõrvalmõjusid. Faasis 2a selgitatakse erinevate dooside toime. Faas 2b selgitab kas ravi(m) on efektiivne. Enamus ravimeid praagitakse välja 2. faasis.
 - Faas 3 suured multikeskus (1000-3000) uuringud kinnitavad kliinilise efektiivsuse.
-- **Terapeutiline aken**: ravimi doos mis asetseb efektiivsuse ja toksilisuse vahel.
 
 ***=right
+
+- **Terapeutiline aken**: ravimi doos mis asetseb efektiivsuse ja toksilisuse vahel.
 
 ![](http://www.hemoshear.com/wp-content/uploads/2012/10/Screen-shot-2012-10-18-at-3.11.58-PM.png)
 
