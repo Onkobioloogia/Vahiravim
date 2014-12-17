@@ -134,6 +134,17 @@ strong {
 
 ---
 
+## Biomarkerid
+# Molekulaarne profileerimine annab ka infot selle kohta kas vähk on mingile kindlale märklaud ravile tundlik
+
+- mitte-väikserakuline kopsuvähk, EGFR mutatsioonid määravad tundlikkuse türosiin kinaasi inhibiitoritele (iressa)
+- GI strooma vähk, KIT ja PDGFRA mutatsioonid määravad tundlikkuse c-KIT ja PDGFR inhibiitoritele (imatinib)
+- metastaatiline soolevähk, mutantne KRAS ennustab mitte-tundlikkuse anti-EGFR antikehadele.
+- melanoom, BRAF mutatsioonid mutatsioonid määravad tundlikkuse spetsiifilistele inhibiitoritele (vemurafenib)
+- rinnavähk, HER2 amplifikatsioon ennustab tundlikkust anti-HER2 teraapiale.
+
+---
+
 ## Vähiravi strateegiad
 # Surm/apoptoos vs diferentseerumine
 
