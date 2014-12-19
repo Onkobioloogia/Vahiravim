@@ -414,8 +414,8 @@ In vitro ravimiresistentsust vahendavad mutatsioonid BCR-ABL valgus
 ## Türosiin kinaasi inhibiitorite resistentsus kopsuvähis
 # NSCLC resistentsusele viivad mehhanismid
 
-![](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3577635/bin/clpt2012237f2.jpg)
 
+![](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3577635/bin/clpt2012237f2.jpg)
 
 <footer class="source"> Pilt: de Castro et al., 
 <a href="http://www.nature.com/clpt/journal/v93/n3/full/clpt2012237a.html">2013</a>.
@@ -465,7 +465,7 @@ Revlimid | multi müeloom, mantelrakk lümfoom | ? | kemoterapeutikum | $1.09B |
 
 --- .segue .dark .nobackground
 
-## Lingid eelmistele loengutele
+## Lingid teistele loengutele
 
 --- &twocol 
 
@@ -490,3 +490,4 @@ Revlimid | multi müeloom, mantelrakk lümfoom | ? | kemoterapeutikum | $1.09B |
 - [Mikrokeskkond](http://tpall.github.io/Mikrokeskkond)
 - [Metastaasid](http://tpall.github.io/Metastaas)
 - [Immuunsus](http://tpall.github.io/Immuunsus)
+- [Vähiravimid](http://tpall.github.io/Vahiravim)
