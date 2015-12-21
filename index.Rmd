@@ -2,7 +2,7 @@
 title       : Vähiravimid
 subtitle    : Onkobioloogia
 author      : Taavi Päll
-job         : vanemteadur, VTAK
+job         : lektor, TTÜ
 framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
 highlighter : highlight.js  # {highlight.js, prettify, highlight}
 hitheme     : tomorrow      # 
@@ -24,7 +24,7 @@ background-image:url(https://pbs.twimg.com/media/B4L1taPCUAEhkGA.jpg:large);
 background-repeat: no-repeat;
 background-position: 87.5% 35%;
 background-size: 44%;
-background-color: #CBE7A5; /* ; ; */
+background-color: #FFFFFF; /* ;CBE7A5 ; */
 }
 
 .title-slide hgroup > h1{
@@ -353,11 +353,11 @@ myc või wnt | rinnanäärme adenokartsinoom jäi alles
 
 --- &twocol
 
-## Ravimimärklauaks sobivad valgud *druggable targets*
+## Ravimimärklauaks sobivad valgud/*druggable targets*
 
 ***=left
 
-- Valku loetakse sobivaks ravimi märklauaks kui ta omab identifitseeritavat **ensümaatilist aktiivsust** ja defineeritud  **katalüütiline lõhe** (*catalytic cleft*).
+- Valku loetakse sobivaks ravimi märklauaks kui ta omab identifitseeritavat **ensümaatilist aktiivsust** ja defineeritud  **katalüütiline sait** (*catalytic cleft*).
 - Katalüütilisse lõhesse on võimalik seostada suhteliselt madalmolekulaarne (<1000Da) ühend. 
 - Mitmed mittekovalentsed sidemed mis sellise madalmolekulaarse ühendi seostumisel moodustuvad, võimaldavad saavutada ravimi **kõrge spetsiifilisuse** ja **aviidsuse** (~mitmete kontaktide afiinsuste summa)  
 
@@ -373,7 +373,7 @@ myc või wnt | rinnanäärme adenokartsinoom jäi alles
 ## Ravimimärklauaks ebasobivad valgud
 # Keskmiselt 1 valk 5 sobib
 
-- Valke millel selge katalüütiline lõhe puudub peetakse üldiselt **ravimimärklauaks sobimatuks, nt. transkriptsioonifaktorid**. Onkovalgud MYC ja FOS klassifitseeruvad selliste valkuda hulka. Hormoonretseptorid on siin erand, sest neil on spetsiifiline hormooni siduv domään (tamoksifeen blokeerib östrogeenirtseptori)
+- Valke millel selge katalüütiline lõhe puudub peetakse üldiselt **ravimimärklauaks sobimatuks, nt. transkriptsioonifaktorid**. Onkovalgud MYC ja FOS klassifitseeruvad selliste valkuda hulka. Hormoonretseptorid on siin erand, sest neil on spetsiifiline hormooni siduv domään (tamoksifeen blokeerib östrogeeniretseptori)
 - Teisalt ei garanteeri katalüütilise domääni olemasolu, et mingi valgu vastu on mõtet ravimit disainima hakata. Näiteks, 
     - RAS GTPaasne domään, mida pole mõtet inhibeerida, sest see omab juba isegi madalat RAS-i inhibeerivat toimet.
     - türosiin fosfataasid, mis toimivad signaaliraja negatiivses tagasisides.
@@ -384,7 +384,7 @@ myc või wnt | rinnanäärme adenokartsinoom jäi alles
 ## Valk-valk interaktsioonide blokeerimine
 
 - **Nutlin-2**: blokeerib MDM2 seostumise metsik tüüpi p53.
-- **ICG-001** blokeerib the $\beta$-kateniini/CBP (*cyclic AMP response-element binding protein binding protein*) vahelise interaktsiooni.
+- **ICG-001** blokeerib $\beta$-kateniini/CBP (*cyclic AMP response-element binding protein binding protein*) vahelise interaktsiooni.
     - CBP on Wnt/$\beta$-kateniini signaaliraja transkriptsiooni koaktivaator, mis koos $\beta$-kateniiniga aktiveerib mitmete oluliste anti-apoptootiliste geenide (survivin, IAP) ja ka tsükliin D1 ekspressiooni.
 
 
@@ -410,7 +410,7 @@ myc või wnt | rinnanäärme adenokartsinoom jäi alles
 - Inimesel on genoomis 518 kinaasi geeni.
 - ~395 kinaasi inhibiitorit ~110 erineva kinaasi vastu on kliinilises arenduses [de Castro, 2012](http://www.nature.com/clpt/journal/v93/n3/full/clpt2012237a.html).
 - Türosiin kinaase on 90 ja seriin-treoniin kinaase 318.
-- Kinaasne domään on väga sarnane erinevatel kinaasidel.
+- Kinaasne domään on erinevatel kinaasidel väga sarnane.
 
 <footer class="source">Pilt: inimese kinoomi puu. Cell Signalling Technology, Inc.
 </footer>
@@ -422,12 +422,12 @@ myc või wnt | rinnanäärme adenokartsinoom jäi alles
 
 Erinevate epidermaalse kasvufaktori retseptori (EGFR) türosiin kinaasi inhibiitorite seostumine kinaasse domääni ATP seostumise lõhesse. Moodustuvad mitmed mittekovalentsed sidemed.
 
-![](http://www.nature.com/clpt/journal/v93/n3/images/clpt2012237f1.gif)
+![](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3577635/bin/clpt2012237f1.jpg)
 
  
  <footer class="source"> (a) Two-dimensional (2D) structure of reversible inhibitor gefitinib and the three-dimensional (3D) structure in complex with EGFR (PDB code 3UG2). (b) 2D structure of reversible inhibitor erlotinib and the 3D structure of the binding site of EGFR in complex with erlotinib (PDB code 4HJO). (c) 2D structure of the potent irreversible inhibitor afatinib (BIBW-2992) and the 3D structure of the binding site of EGFR in complex with afatinib, showing the covalent interaction with Cys797, highlighted in orange (PDB code 4G5J). PDB, Protein Data Bank. 
  Allikas: de Castro et al., 
-<a href="http://www.nature.com/clpt/journal/v93/n3/full/clpt2012237a.html">2013</a>.
+<a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3577635/">2013</a>.
 </footer>
 
 ---
@@ -477,8 +477,9 @@ In vitro ravimiresistentsust vahendavad mutatsioonid BCR-ABL valgus
 ***=right
 
 - **Terapeutiline aken**: ravimi doos mis asetseb efektiivsuse ja toksilisuse vahel.
+- The therapeutic window is from 10% of therapeutic effect to 10% of the toxic effect
 
-![](http://www.hemoshear.com/wp-content/uploads/2012/10/Screen-shot-2012-10-18-at-3.11.58-PM.png)
+![](http://www.sharinginhealth.ca/images/therapeutric_toxic_effects.jpg)
 
 ---
 
