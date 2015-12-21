@@ -230,11 +230,10 @@ pd %>%
 
 ![blümfoom](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1351148/bin/nihms-5150-0001.jpg)
 
-
-
 <footer class="source">Pilt: The Biology of Human Lymphoid Malignancies Revealed by Gene Expression Profiling. Louis M. Staudt
 & Sandeep Dave, 
 <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1351148/">2005</a>.
+DLBCL, Diffuse Large B-Cell Lymphoma; PMBL, Primary Mediastinal B-Cell Lymphoma; GCB, Germinal Center B-Cell Lymphoma; ABC, Activated B-cell-like Lymphoma.
 </footer>
 
 ---
