@@ -303,7 +303,7 @@ myc või wnt | rinnanäärme adenokartsinoom jäi alles
 
 ## Vähiteraapias kasutatavad ravimiklassid
 
-- Tsütotoksilised kemoterapeutikumid,
+- [Tsütotoksilised kemoterapeutikumid](http://www.newyorker.com/magazine/2015/12/14/tough-medicine),
     - toimivad kiirelt jagunevatele rakkudele (nt. CHOP kombo:  Cyclophosphamide, Doxorubicin, Vincristine (Oncovin), Prednisolone).
 - Hormoonravimid,
     - blokeerivad hormoon-sõltuvate vähirakkude jagunemist ja põhjustavad vähirakkude surma (Lutron, Zytiga), 
