@@ -347,7 +347,7 @@ myc või wnt | rinnanäärme adenokartsinoom jäi alles
 ## Ravimimärklauaks ebasobivad valgud
 # Keskmiselt 1 valk 5 sobib
 
-- Valke millel selge katalüütiline lõhe puudub peetakse üldiselt **ravimimärklauaks sobimatuks, nt. transkriptsioonifaktorid**. Onkovalgud MYC ja FOS klassifitseeruvad selliste valkuda hulka. Hormoonretseptorid on siin erand, sest neil on spetsiifiline hormooni siduv domään (tamoksifeen blokeerib östrogeeniretseptori)
+- Valke millel selge katalüütiline sait puudub peetakse üldiselt **ravimimärklauaks sobimatuks, nt. transkriptsioonifaktorid**. Onkovalgud MYC ja FOS klassifitseeruvad selliste valkuda hulka. Hormoonretseptorid on siin erand, sest neil on spetsiifiline hormooni siduv domään (tamoksifeen blokeerib östrogeeniretseptori)
 - Teisalt ei garanteeri katalüütilise domääni olemasolu, et mingi valgu vastu on mõtet ravimit disainima hakata. Näiteks, 
     - RAS GTPaasne domään, mida pole mõtet inhibeerida, sest see omab juba isegi madalat RAS-i inhibeerivat toimet.
     - türosiin fosfataasid, mis toimivad signaaliraja negatiivses tagasisides.
