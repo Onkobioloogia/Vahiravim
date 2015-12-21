@@ -60,40 +60,61 @@ strong {
 
 ## Recap
 
----
-
-## Immunsüsteem ja vähk
-# Vähi immuunokujundamine
-
-
-- Vähirakkude ja immuunsüsteemi interaktsiooni nimetatakse **vähi immuunokujundamine**.
-- Vähi **täielik elimineerimine immuunsüsteemi poolt** on immuunokujundamine üks stsenaarium.
-- Teine stsenaarium on **immuunsüsteemi poolt kujundatud vähirakkude** repertuaari esiletõus. 
-- Immuunsüsteemiga kohandunud vähirakud on kas 
-  - **vähem immuunogeneesed**,
-  - suurenenud **võimega inhibeerida vähivastast immuunvastust**.
-
----&twocol
-
-## Immuunrakud kasvaja mikrokeskonnas
+--- &twocol
+## Vähi immuunokujundamine
+# Vähirakkude ja immuunsüsteemi interaktsioon
 
 ***=left
 
-- T lümfotsüüdid
-- B lümfotsüüdid
-- NK ja NKT rakud
-- makrofaagid
-- müeloidset päritolu suppressor-rakud
-- dendriitrakud
-- neutrofiilid
+- **Vähi täielik elimineerimine immuunsüsteemi poolt**
+- **Immuunsüsteemi poolt kujundatud vähirakkude esiletõus**
+- Immuunsüsteemiga kohandunud vähirakud on kas 
+  - vähem immuunogeneesed,
+  - suurenenud võimega inhibeerida vähivastast immuunvastust.
 
 ***=right
 
-![](http://www.nature.com/nrc/journal/v12/n4/images/nrc3245-f2.jpg)
+<img src="http://www.neurosurgery-blog.com/wp-content/uploads/2012/08/Cancer-Immunoediting-in-Malignant-Glioma.jpg" style="width:460px">
 
-<footer class="source">Pilt: 
-<a href="http://www.nature.com/nrc/journal/v12/n4/full/nrc3245.html"> Fridman et al., 2012.
-</a>
+<footer class="source">Pilt: [neurosurgery-blog.com](http://www.neurosurgery-blog.com/archives/4770)
+</footer>
+
+----
+# Vähi intsidents organ-transplantatsiooni patsientidel
+
+```{r cancer_immunosuppressed_pts, echo=FALSE, results='asis', echo=FALSE, message=FALSE}
+transplants <- read.table(
+textConnection("site, observed, expected
+'non melanoma skin', 127, 5.1
+'thyroid other endocrine', 30, 2.1
+'mouth tongue lip',22,1.6
+'cervix vulva vagina',39,3.6
+'non-Hodgkins lymphoma',25,2.4
+'kidney ureter',32,3.5
+'bladder',26,4.7
+'colorectal',38,10.5
+'lung',30,12.5
+'brain',10,4.1
+'prostate',11,5.2
+'melanoma',7,4.1
+'breast',15,13.6")
+, header = T, sep = ",")
+
+library(dplyr)
+transplants <- transplants %>% mutate(ratio = expected/observed)
+
+library(MASS)
+params <- fitdistr(transplants$ratio, densfun = "beta", start = list(shape1 = 0.8, shape2 = 2))$estimate
+
+trcan <- transplants %>% mutate(eb_ratio = (expected + params[1])/(observed + params[1] + params[2]),
+                       eb_increase = round(1/eb_ratio, 1)) %>% 
+  dplyr::select(site, observed, expected, eb_increase)
+library(knitr)
+kable(trcan, col.names = c("Site of cancer", "No. cases observed", "No. cases expected", "Ratio obs/exp (adj)"))
+```
+
+<footer class="source">Tabel: [Peto, J (2001)](http://www.nature.com/nature/journal/v411/n6835/full/411390a0.html). Cancer epidemiology in the last century and the next decade. Nature, 411, 6835:390-5.
+[Birkeland, et al. (1995)](http://onlinelibrary.wiley.com/doi/10.1002/ijc.2910600209/abstract). Cancer risk after renal transplantation in the Nordic countries, 1964-1986. Int. J. Cancer, 60, 2:183-9. ADJustment by empirical Bayesian shrinkage towards a Beta prior.
 </footer>
 
 
@@ -174,21 +195,32 @@ pd %>%
 <a href="http://www.sciencemag.org/content/331/6024/1540.1.full">2011</a>.
 </footer>
 
+----
+## PSA sõeltestimise mõju metastaatilisele eesnäärmevähile
+
+<img src="http://blogs-images.forbes.com/benjamindavies/files/2015/11/metastaticPCA-1200x750.png" style="width:460px">
+
+
+<footer class="source">Pilt: [PSA screening has also significantly impacted prostate cancer mortality](http://www.forbes.com/sites/benjamindavies/2015/11/15/the-governments-war-against-mens-health-its-about-to-get-worse/), the true measure of a successful screening test. In fact, prostate cancer has enjoyed the largest percent decline in mortality of any carcinoma in the past ten years!
+</footer>
+
+----
+
+<img src="http://blogs-images.forbes.com/benjamindavies/files/2015/11/cancermortality.png" style="width:460px">
+
+
+<footer class="source">Pilt: [PSA screening has also significantly impacted prostate cancer mortality](http://www.forbes.com/sites/benjamindavies/2015/11/15/the-governments-war-against-mens-health-its-about-to-get-worse/), the true measure of a successful screening test. In fact, prostate cancer has enjoyed the largest percent decline in mortality of any carcinoma in the past ten years!
+</footer>
+
+
 ---&twocol
 
-## Molekulaarne profileerimine aitab määrata ravi
-# HER2/ER/PR-negatiivne rinnavähk
+## Molekulaarne profileerimine aitab määrata rinnavähi ravi
 
-***=left
 
-![her2](http://theoncologist.alphamedpress.org/content/15/suppl_5/39/F1.medium.gif)
+![her2](assets/img/Screenshot2015-12-2109:42:03.png)
 
-***=right
-
-![basal](http://theoncologist.alphamedpress.org/content/15/suppl_5/39/F2.medium.gif)
-
-<footer class="source">Pildid: Molecular Stratification of Triple-Negative Breast Cancers. Charles M. Perou, 
-<a href="http://theoncologist.alphamedpress.org/content/15/suppl_5/39.long">2010</a>.
+<footer class="source">Pilt: L. van't Veer - [Genomic signatures of specific sites of metastases}(http://www.slideshare.net/ESOSLIDES/l-veer-abclisbonmetasites).
 </footer>
 
 ---
